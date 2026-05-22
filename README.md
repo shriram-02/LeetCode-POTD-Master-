@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://lcpotd.netlify.app/">
-    <img 
-      src="https://img.shields.io/badge/VIEW%20DOCUMENTATION-00C2FF?style=for-the-badge&logoColor=white&labelColor=000000"
+    <img
+      src="https://img.shields.io/badge/✨%20VIEW%20DOCUMENTATION-0A0A0A?style=for-the-badge&logo=gitbook&logoColor=00F5FF&labelColor=111111&color=00C2FF"
       alt="Documentation"
     />
   </a>
